@@ -301,7 +301,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024'
 ```
 ### Output 
-![Column count check](assets/images/2_column_count_check.png)
+![Column count check](Assets/Image/2_column_count_check.png)
 
 
 
@@ -322,7 +322,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024';
 ```
 ### Output
-![Data type check](assets/images/3_data_type_check.png)
+![Data type check](Assets/Image/3_data_type_check.png)
 
 
 ## Duplicate count check
@@ -350,7 +350,7 @@ HAVING
     COUNT(*) > 1;
 ```
 ### Output
-![Duplicate count check](assets/images/4_duplicate_records_check.png)
+![Duplicate count check](Assets/Image/4_duplicate_records_check.png)
 
 # Visualization 
 
@@ -359,7 +359,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024.gif)
+![GIF of Power BI Dashboard](Assets/Image/top_uk_youtubers_2024.gif)
 
 This shows the Top UK Youtubers in 2024 so far. 
 
@@ -622,7 +622,7 @@ ORDER BY
 
 #### Output
 
-![Most subsc](assets/images/youtubers_with_the_most_subs.png)
+![Most subsc](Assets/Image/youtubers_with_the_most_subs.png)
 
 ### 2. Youtubers with the most videos uploaded
 
@@ -712,7 +712,7 @@ ORDER BY
 
 #### Output
 
-![Most videos](assets/images/youtubers_with_the_most_videos.png)
+![Most videos](Assets/Image/youtubers_with_the_most_videos.png)
 
 
 ### 3.  Youtubers with the most views 
@@ -807,7 +807,7 @@ ORDER BY
 
 #### Output
 
-![Most views](assets/images/youtubers_with_the_most_views.png)
+![Most views](Assets/Image/youtubers_with_the_most_views.png)
 
 
 
